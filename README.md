@@ -13,13 +13,13 @@ Database Structure
 
 The database includes the following tables:
 
-Student
+ -Student
 
-Course
+ -Course
 
-Batch
+ -Batch
 
-Enrollment
+ -Enrollment
 
 Key Features
 
