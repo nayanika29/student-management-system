@@ -1,6 +1,7 @@
 # student-management-system
 
-Project Overview
+Project Overview:
+
 The Student Management System is designed to efficiently manage and query student-related data for an educational institution. This project covers the creation of essential database tables, insertion of records, and execution of various queries to retrieve and manipulate data. The system maintains comprehensive records of students, courses, batches, and enrollments, facilitating streamlined management and insightful data analysis.
 
 Technologies Used
